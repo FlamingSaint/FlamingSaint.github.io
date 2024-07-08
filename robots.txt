@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://FlamingSaint.github.io/sitemap.xml
+Sitemap: https://flamingsaint.github.io/sitemap.xml
